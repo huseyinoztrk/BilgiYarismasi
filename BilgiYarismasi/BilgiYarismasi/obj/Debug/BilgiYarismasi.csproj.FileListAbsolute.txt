@@ -1,0 +1,11 @@
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe.config
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.pdb
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.AssemblyReference.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.Form1.resources
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.Properties.Resources.resources
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.GenerateResource.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.csproj.CoreCompileInputs.cache
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.exe
+C:\Users\huseyin.ozturk\Desktop\C# Projeler\BilgiYarismasi\BilgiYarismasi\obj\Debug\BilgiYarismasi.pdb
