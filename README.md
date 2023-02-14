@@ -1,2 +1,2 @@
 # BilgiYarismasi
-C# yazılım diliyle geliştirilmiş konsol uygulamasıdır. 
+C# yazılım diliyle geliştirilmiş form uygulamasıdır. 
